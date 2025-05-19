@@ -1,6 +1,8 @@
-## Hi there 👋
+## Hi there 👋 my name is Munirakhon
 
-<!--
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=500&pause=1000&color=B213F7&background=FFE9A100&width=435&lines=Aspiring+Junior+Backend+%2F+Dev0ps+Developer" alt="Typing SVG" /></a>
+
+<!--1
 **munira82/munira82** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
